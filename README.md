@@ -39,4 +39,4 @@ CONTACT US helps us to contact with the instituion.
 
 
 
-The link to my Future Ready Talent project is:https://github.com/Siddu3105/futureready.git
+The link to my Future Ready Talent project is:https://brave-glacier-0eaffe610.2.azurestaticapps.net
